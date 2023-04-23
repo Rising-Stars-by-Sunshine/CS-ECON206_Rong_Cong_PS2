@@ -19,9 +19,7 @@ Note: please insert the screenshot of the answers to your research question by C
 - more about the author
 
 ### Structure
-- This project is an expanded project focusing on game theory.
-
-- Firstly, overleaf reviews the milestone of game theory and the definition and proof of Bayesian Nash equilibrium. Second, a table of definitions of five important game theory words was produced by drawing on the most original literature. Third, we simply simulate two game theory games -- the Prisoner's Dilemma and game theory Explore -- using Google Colab and Game Theory Explore. Two types of game theoretic games are the Prisoner's Dilemma and the Ultimatum game. Among them, the Prisoner's dilemma is a well-known concept in game theory that describes a conflict between cooperation and competition between two people.Matching Pennies is a two-player game theory game in which two players choose either "heads" or "tails" at the same time and then display their choices. The game is often used to study strategy choice and the concept of equilibrium in games.
+- This project is an expanded project focusing on game theory.Firstly, overleaf reviews the milestone of game theory and the definition and proof of Bayesian Nash equilibrium. Second, a table of definitions of five important game theory words was produced by drawing on the most original literature. Third, we simply simulate two game theory games -- the Prisoner's Dilemma and game theory Explore -- using Google Colab and Game Theory Explore. Two types of game theoretic games are the Prisoner's Dilemma and the Ultimatum game. Among them, the Prisoner's dilemma is a well-known concept in game theory that describes a conflict between cooperation and competition between two people.Matching Pennies is a two-player game theory game in which two players choose either "heads" or "tails" at the same time and then display their choices. The game is often used to study strategy choice and the concept of equilibrium in games.
 
 
 
