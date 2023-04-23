@@ -34,7 +34,7 @@ Note: please insert the screenshot of the answers to your research question by C
 - Media appearance
 
 ### More about the Author
- ![image](WechatIMG46.png)
+ ![image](WechatIMG68.png)
  
 -  As a junior majoring in political economy, Rong Cong is very interested in economics, anthropology and psychology. She hopes to do enough cross-disciplinary research and study in the future. At the same time, Rong Cong is also a music lover. This is a cover of her song 👉🏻https://y.music.163.com/m/artist?app_version=8.9.61&id=46956986&userid=1572161264&dlt=0846.
    
