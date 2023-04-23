@@ -19,9 +19,7 @@ Note: please insert the screenshot of the answers to your research question by C
 - more about the author
 
 ### Structure
-- Game Environment
-- Solution Concept
-- Evaluations: e.g. efficiency and fairness
+- This project is an expanded project focusing on Game Theory. It specifically reviews the milestones of game theory, analyzes the definition of Bayesian Nash Equilibrium, and simulates two game theory games simply through Google Colab and Game Theory Explore. The two kind of game theory games are the Prisoner's Dilemma and A.
 
 
 
