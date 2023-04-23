@@ -27,11 +27,14 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Spotlight
 - Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+
+ —Reflections and analyses on the limitations and practical significance of Matching Pennies:
+ 
+Matching Pennies can only be used in limited situations, with players having limited choices at each turn. Matching Pennies cannot be used if the player's choices are continuous or unlimited. But Matching Pennies can be used to describe some real-world situations. In intelligence analysis and counterespionage, for example, Matching Pennies are used to describe guessing games between two parties, in which each tries to guess the intentions and actions of the other. Matching Pennies can also be used to describe the strategies used by both parties in market competition, in which each competitor tries to anticipate the actions of his or her rivals in order to devise the best strategy.
+
+ —Reflection and Analysis on the limitations of poisoner dilemma and its practical Significance:
+ 
+First of all, I still think that the biggest assumption of the prisoner's dilemma is based on rational behavior. However, in real life, people's behavior is not always rational, but influenced by emotional, moral and cultural factors. However, the prisoner's dilemma can be used to describe some real-world situations. For example, in international relations, the prisoner's dilemma is used to describe a game between two states in which there is a possibility that either state will choose to take an aggressive action that will result in losses for both. In business, the Prisoner's dilemma can also be used to describe the tradeoff between cooperation and competition.
 
 ### More about the Author
  ![image](WechatIMG68.png)
