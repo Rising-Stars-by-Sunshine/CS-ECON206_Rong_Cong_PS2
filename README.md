@@ -1,18 +1,14 @@
 # # [Problem Set 2: Decipher Game Theory](https://www.nature.com/articles/s41562-021-01152-2)
 ## Project information
-- **Author**: [Rong][Cong], [Political Ecnomics], [2024], Duke Kunshan University
-- **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
+- **Author**: , Duke Kunshan University
+- **Instructor**: Rong Cong,Political Economy, 2024, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Acknowledgments**: I would like to thank Prof. Luyao Zhang for her wonderful curriculum setting and instructions on CSEcon 206.Thank haowen and wanling very much for helping me deep understand Overleef.
 - **Project Summary**: 
-  - [Summarize the Background/Motivation]
-  - [Research Questions]
-  - [Application Scenario]
-  - [Methodology]
-  - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
-  
+  - Project overview. The flow and contents of the project are described in readme.file below.
+  - Overview of game theory. This program will outline important milestones in game theory and the definition of Bayesian Nash Equilibrium. This document is uploaded to the code folder as an Overleaf.zip file.
+  - Game simulation. This project will use Google Colab and GTE to briefly describe two game theory games and find nash equilibrium.
+ 
    
 Note: please insert the screenshot of the answers to your research question by ChatGPT. The methodology that you use to address the research questions must be more innovative than both the current literature and ChatGPT. 
 
