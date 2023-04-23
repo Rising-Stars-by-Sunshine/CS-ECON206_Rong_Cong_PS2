@@ -14,22 +14,15 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ## Table of Contents
 
-- model
-- code
+- structure
 - spotlight
 - more about the author
-- references
 
-### Model
+### Structure
 - Game Environment
 - Solution Concept
 - Evaluations: e.g. efficiency and fairness
 
-### Code
-- Game Environment
-- Strategic plays
-- Equilibruim Evaluations: e.g. belief, strategy, and payoffs
-- oTree Experimental Code 
 
 
 ### Spotlight
