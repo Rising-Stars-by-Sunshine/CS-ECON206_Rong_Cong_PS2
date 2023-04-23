@@ -1,4 +1,4 @@
-# # Title [Problem Set 2: Decipher Game Theory](https://www.nature.com/articles/s41562-021-01152-2)
+# # [Problem Set 2: Decipher Game Theory](https://www.nature.com/articles/s41562-021-01152-2)
 ## Project information
 - **Author**: [Rong][Cong], [Political Ecnomics], [2024], Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
