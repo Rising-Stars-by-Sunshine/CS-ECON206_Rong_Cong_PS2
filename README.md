@@ -1,7 +1,7 @@
 # # [Problem Set 2: Decipher Game Theory](https://www.nature.com/articles/s41562-021-01152-2)
 ## Project information
-- **Author**: , Duke Kunshan University
-- **Instructor**: Rong Cong,Political Economy, 2024, Duke Kunshan University
+- **Author**: Rong Cong, 2024,Duke Kunshan University
+- **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: I would like to thank Prof. Luyao Zhang for her wonderful curriculum setting and instructions on CSEcon 206.Thank haowen and wanling very much for helping me deep understand Overleef.
 - **Project Summary**: 
