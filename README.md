@@ -25,6 +25,10 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Spotlight
 
+Here is the pdf of overleaf.https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Rong_Cong_PS2/blob/main/spotlight/polished%20ps2%20overleaf.pdf
+
+Here is the zip of overleaf.https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Rong_Cong_PS2/blob/main/spotlight/rong.zip
+
   - Reflections and analyses on the limitations and practical significance of Matching Pennies:
 
   - Reflections and analyses on the limitations and practical significance of Matching Pennies:
