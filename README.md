@@ -29,6 +29,8 @@ Here is the pdf of overleaf.https://github.com/Rising-Stars-by-Sunshine/CS-ECON2
 
 Here is the zip of overleaf.https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Rong_Cong_PS2/blob/main/spotlight/rong.zip
 
+Here is the code of models.https://github.com/Rising-Stars-by-Sunshine/CS-ECON206_Rong_Cong_PS2/blob/main/code/polished_rong.ipynb
+
   - Reflections and analyses on the limitations and practical significance of Matching Pennies:
 
   - Reflections and analyses on the limitations and practical significance of Matching Pennies:
